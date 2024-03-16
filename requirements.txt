@@ -1,1 +1,5 @@
 django
+tensorflow
+scikit-learn
+numpy
+pandas
